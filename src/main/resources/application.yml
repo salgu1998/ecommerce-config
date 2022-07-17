@@ -15,7 +15,7 @@ spring:
     config:
       server:
         native:
-          search-locations: file:///Users/salgu/git/spring-cloud/native-file-repo
+          search-locations: file:///Users/salgu/project/spring-cloud/native-file-repo
         git:
 #          git repo config
           uri: https://github.com/salgu1998/config-yaml-file.git
